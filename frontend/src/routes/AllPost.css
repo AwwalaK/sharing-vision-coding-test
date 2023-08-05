@@ -1,0 +1,44 @@
+.all-post {
+  padding: 50px
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.header-button {
+  align-items: center;
+  display: inline-flex;
+  margin: 20px 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 20px 10px;
+}
+
+th {
+  background-color: #f2f2f2;
+  width: 33%;
+}
+
+a {
+  margin-left: 10px;
+}
+
+.deleteButton {
+  background-color: red;
+  color: white;
+  border: none;
+}
+
+.deleteButton:hover {
+  background-color: #8B0000;
+}

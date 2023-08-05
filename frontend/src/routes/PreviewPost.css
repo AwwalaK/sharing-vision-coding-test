@@ -1,0 +1,40 @@
+.preview-post {
+  padding: 50px
+}
+
+.post-card {
+  border: 1px solid blue;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+li {
+  margin: 0 5px;
+}
+
+a {
+  text-decoration: none;
+  padding: 5px 10px;
+  border: 1px solid #007bff;
+  color: #007bff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+a:hover {
+  background-color: #007bff;
+  color: #fff;
+}
+  
