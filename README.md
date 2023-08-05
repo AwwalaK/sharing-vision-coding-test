@@ -21,3 +21,12 @@ DB_PORT=3308
 DB_DATABASE=sharingvision
 DB_USERNAME=root
 DB_PASSWORD=
+
+## Screenshot
+![image](https://github.com/AwwalaK/sharing-vision-coding-test/assets/59392009/d4b61ad3-fb74-4c03-aac5-abb89026c9a6)
+
+![image](https://github.com/AwwalaK/sharing-vision-coding-test/assets/59392009/8c24e1d0-4c70-4502-911a-0cc7cc7e65eb)
+![image](https://github.com/AwwalaK/sharing-vision-coding-test/assets/59392009/81041a2c-f397-4204-9bfd-9f17112ed9be)
+![image](https://github.com/AwwalaK/sharing-vision-coding-test/assets/59392009/4896b1df-4525-4c26-98b9-7a3a81ffcfbd)
+![image](https://github.com/AwwalaK/sharing-vision-coding-test/assets/59392009/cf9eb8bf-e776-4d6d-b5c9-3781fd0c423b)
+
