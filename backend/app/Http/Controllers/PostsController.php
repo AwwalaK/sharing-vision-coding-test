@@ -47,7 +47,7 @@ class PostsController extends Controller
             'title' => 'required|min: 20|max:200',
             'content' => 'required|min: 200',
             'category' => 'required|min: 3|max:100',
-            'status' => 'required|in:publish,draft,thrash',
+            'status' => 'required|in:publish,draft,trash',
         ]);
 
         // $article = Post::create($request->all());
@@ -88,7 +88,7 @@ class PostsController extends Controller
             'title' => 'required|min: 20|max:200',
             'content' => 'required|min: 200',
             'category' => 'required|min: 3|max:100',
-            'status' => 'required|in:publish,draft,thrash',
+            'status' => 'required|in:publish,draft,trash',
         ]);
 
         $article = Post::find($id);
